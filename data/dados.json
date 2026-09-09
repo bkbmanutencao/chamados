@@ -1,870 +1,207 @@
 {
-  "atualizadoEm": "2026-09-09T07:42:17",
-  "totalRegistros": 2753,
-  "totalAbertos": 1979,
+  "atualizadoEm": "2026-09-09T08:00:41",
+  "totalRegistros": 2752,
+  "totalAbertos": 1978,
   "totalFechados": 774,
-  "totalCriticos": 134,
-  "totalLojas": 72,
-  "lojas": [
-    {
-      "nome": "FS CURITIBA - FRANCISCO FRISHMANN 3151",
-      "total": 66,
-      "abertos": 54,
-      "fechados": 12,
-      "corretiva": 50,
-      "preventiva": 16,
-      "criticosAbertos": 5
-    },
-    {
-      "nome": "FS CACHOEIRINHA - AV FLORES DA CUNHA",
-      "total": 60,
-      "abertos": 53,
-      "fechados": 7,
-      "corretiva": 39,
-      "preventiva": 21,
-      "criticosAbertos": 4
-    },
-    {
-      "nome": "FS CANOAS - AV GETULIO VARGAS 3800",
-      "total": 59,
-      "abertos": 51,
-      "fechados": 8,
-      "corretiva": 32,
-      "preventiva": 27,
-      "criticosAbertos": 2
-    },
-    {
-      "nome": "ILR FLORIPA - R JERONIMO COELHO 215",
-      "total": 71,
-      "abertos": 47,
-      "fechados": 24,
-      "corretiva": 60,
-      "preventiva": 11,
-      "criticosAbertos": 0
-    },
-    {
-      "nome": "FS POA - AV DR NILO PECANHA 1715",
-      "total": 57,
-      "abertos": 46,
-      "fechados": 11,
-      "corretiva": 39,
-      "preventiva": 18,
-      "criticosAbertos": 1
-    },
-    {
-      "nome": "FS POA - AV DA CAVALHADA",
-      "total": 59,
-      "abertos": 45,
-      "fechados": 14,
-      "corretiva": 39,
-      "preventiva": 20,
-      "criticosAbertos": 3
-    },
-    {
-      "nome": "ILR PORTO ALEGRE - R ANDRADAS 1664",
-      "total": 69,
-      "abertos": 45,
-      "fechados": 24,
-      "corretiva": 54,
-      "preventiva": 15,
-      "criticosAbertos": 2
-    },
-    {
-      "nome": "SHOP PALLADIUM FOZ DO IGUACU",
-      "total": 45,
-      "abertos": 42,
-      "fechados": 3,
-      "corretiva": 32,
-      "preventiva": 13,
-      "criticosAbertos": 5
-    },
-    {
-      "nome": "FS CANOAS - AV DR SEZEFREDO AZAMBUJA VIEIRA 1033",
-      "total": 51,
-      "abertos": 41,
-      "fechados": 10,
-      "corretiva": 35,
-      "preventiva": 16,
-      "criticosAbertos": 0
-    },
-    {
-      "nome": "FS PORTO ALEGRE - AV IPIRANGA 1600",
-      "total": 56,
-      "abertos": 40,
-      "fechados": 16,
-      "corretiva": 43,
-      "preventiva": 13,
-      "criticosAbertos": 4
-    },
-    {
-      "nome": "FS PINHAIS - R DEP JOAO LEOPOLDO JACOMEL",
-      "total": 51,
-      "abertos": 40,
-      "fechados": 11,
-      "corretiva": 36,
-      "preventiva": 15,
-      "criticosAbertos": 2
-    },
-    {
-      "nome": "FS PONTA GROSSA - RUA BALDUINO TAQUES 1530",
-      "total": 56,
-      "abertos": 40,
-      "fechados": 16,
-      "corretiva": 42,
-      "preventiva": 14,
-      "criticosAbertos": 1
-    },
-    {
-      "nome": "SHOP JL CASCAVEL",
-      "total": 43,
-      "abertos": 40,
-      "fechados": 3,
-      "corretiva": 30,
-      "preventiva": 13,
-      "criticosAbertos": 2
-    },
-    {
-      "nome": "FS CAXIAS DO SUL - R JOÃO NICHELE 2227",
-      "total": 46,
-      "abertos": 40,
-      "fechados": 6,
-      "corretiva": 28,
-      "preventiva": 18,
-      "criticosAbertos": 3
-    },
-    {
-      "nome": "SHOP MUELLER CURITIBA",
-      "total": 52,
-      "abertos": 39,
-      "fechados": 13,
-      "corretiva": 37,
-      "preventiva": 15,
-      "criticosAbertos": 3
-    },
-    {
-      "nome": "FS CASCAVEL - AV BRASIL 1580",
-      "total": 43,
-      "abertos": 38,
-      "fechados": 5,
-      "corretiva": 27,
-      "preventiva": 16,
-      "criticosAbertos": 0
-    },
-    {
-      "nome": "FS CURITIBA - AV SILVA JARDIM",
-      "total": 47,
-      "abertos": 37,
-      "fechados": 10,
-      "corretiva": 30,
-      "preventiva": 17,
-      "criticosAbertos": 2
-    },
-    {
-      "nome": "SHOP ROYAL PLAZA SANTA MARIA",
-      "total": 38,
-      "abertos": 36,
-      "fechados": 2,
-      "corretiva": 22,
-      "preventiva": 16,
-      "criticosAbertos": 3
-    },
-    {
-      "nome": "SHOP BELLA CITTA",
-      "total": 36,
-      "abertos": 36,
-      "fechados": 0,
-      "corretiva": 13,
-      "preventiva": 23,
-      "criticosAbertos": 1
-    },
-    {
-      "nome": "SHOP PRAIA DE BELAS",
-      "total": 51,
-      "abertos": 35,
-      "fechados": 16,
-      "corretiva": 34,
-      "preventiva": 16,
-      "criticosAbertos": 0
-    },
-    {
-      "nome": "BOURBON SHOP WALLIG",
-      "total": 42,
-      "abertos": 35,
-      "fechados": 7,
-      "corretiva": 29,
-      "preventiva": 13,
-      "criticosAbertos": 6
-    },
-    {
-      "nome": "BOURBON SHOP PORTO ALEGRE",
-      "total": 42,
-      "abertos": 35,
-      "fechados": 7,
-      "corretiva": 31,
-      "preventiva": 11,
-      "criticosAbertos": 4
-    },
-    {
-      "nome": "SHOP PARK EUROPEU",
-      "total": 35,
-      "abertos": 35,
-      "fechados": 0,
-      "corretiva": 20,
-      "preventiva": 15,
-      "criticosAbertos": 2
-    },
-    {
-      "nome": "FS CURITIBA - LINHA VERDE",
-      "total": 50,
-      "abertos": 34,
-      "fechados": 16,
-      "corretiva": 37,
-      "preventiva": 13,
-      "criticosAbertos": 4
-    },
-    {
-      "nome": "FS SJP - AV DAS TORRES",
-      "total": 45,
-      "abertos": 34,
-      "fechados": 11,
-      "corretiva": 30,
-      "preventiva": 15,
-      "criticosAbertos": 1
-    },
-    {
-      "nome": "CANOAS SHOP",
-      "total": 41,
-      "abertos": 33,
-      "fechados": 8,
-      "corretiva": 26,
-      "preventiva": 15,
-      "criticosAbertos": 3
-    },
-    {
-      "nome": "PARK SHOP CANOAS",
-      "total": 42,
-      "abertos": 33,
-      "fechados": 9,
-      "corretiva": 22,
-      "preventiva": 20,
-      "criticosAbertos": 2
-    },
-    {
-      "nome": "CARREFOUR PASSO D'AREIA",
-      "total": 38,
-      "abertos": 33,
-      "fechados": 5,
-      "corretiva": 26,
-      "preventiva": 11,
-      "criticosAbertos": 2
-    },
-    {
-      "nome": "FC CAXIAS DO SUL - VILLAGIO CAXIAS",
-      "total": 34,
-      "abertos": 33,
-      "fechados": 1,
-      "corretiva": 16,
-      "preventiva": 18,
-      "criticosAbertos": 2
-    },
-    {
-      "nome": "SHOP IGUATEMI PORTO ALEGRE",
-      "total": 50,
-      "abertos": 32,
-      "fechados": 18,
-      "corretiva": 28,
-      "preventiva": 22,
-      "criticosAbertos": 2
-    },
-    {
-      "nome": "FS PELOTAS - AV FERREIRA VIANA 540",
-      "total": 60,
-      "abertos": 31,
-      "fechados": 29,
-      "corretiva": 34,
-      "preventiva": 26,
-      "criticosAbertos": 1
-    },
-    {
-      "nome": "SHOP SÃO JOSE DOS PINHAIS",
-      "total": 49,
-      "abertos": 30,
-      "fechados": 19,
-      "corretiva": 32,
-      "preventiva": 17,
-      "criticosAbertos": 4
-    },
-    {
-      "nome": "WALMART BIG TORRES",
-      "total": 33,
-      "abertos": 29,
-      "fechados": 4,
-      "corretiva": 20,
-      "preventiva": 13,
-      "criticosAbertos": 2
-    },
-    {
-      "nome": "ATLANTICO SHOP",
-      "total": 38,
-      "abertos": 29,
-      "fechados": 9,
-      "corretiva": 24,
-      "preventiva": 14,
-      "criticosAbertos": 2
-    },
-    {
-      "nome": "SHOP ESTACAO",
-      "total": 34,
-      "abertos": 27,
-      "fechados": 7,
-      "corretiva": 17,
-      "preventiva": 17,
-      "criticosAbertos": 0
-    },
-    {
-      "nome": "SHOP PRACA NOVA SANTA MARIA",
-      "total": 28,
-      "abertos": 27,
-      "fechados": 1,
-      "corretiva": 14,
-      "preventiva": 14,
-      "criticosAbertos": 4
-    },
-    {
-      "nome": "SHOP GRAVATAI",
-      "total": 28,
-      "abertos": 27,
-      "fechados": 1,
-      "corretiva": 17,
-      "preventiva": 11,
-      "criticosAbertos": 2
-    },
-    {
-      "nome": "PARTAGE SHOP RIO GRANDE",
-      "total": 42,
-      "abertos": 26,
-      "fechados": 16,
-      "corretiva": 28,
-      "preventiva": 14,
-      "criticosAbertos": 1
-    },
-    {
-      "nome": "SHOP DO VALE",
-      "total": 29,
-      "abertos": 25,
-      "fechados": 4,
-      "corretiva": 18,
-      "preventiva": 11,
-      "criticosAbertos": 1
-    },
-    {
-      "nome": "JOCKEY PLAZA SHOP",
-      "total": 57,
-      "abertos": 25,
-      "fechados": 32,
-      "corretiva": 35,
-      "preventiva": 22,
-      "criticosAbertos": 4
-    },
-    {
-      "nome": "SHOP CURITIBA",
-      "total": 31,
-      "abertos": 25,
-      "fechados": 6,
-      "corretiva": 16,
-      "preventiva": 15,
-      "criticosAbertos": 1
-    },
-    {
-      "nome": "OUTLET NOVO HAMBURGO",
-      "total": 34,
-      "abertos": 25,
-      "fechados": 9,
-      "corretiva": 24,
-      "preventiva": 10,
-      "criticosAbertos": 6
-    },
-    {
-      "nome": "CATARATAS JL SHOP",
-      "total": 30,
-      "abertos": 25,
-      "fechados": 5,
-      "corretiva": 14,
-      "preventiva": 16,
-      "criticosAbertos": 0
-    },
-    {
-      "nome": "PASSO FUNDO SHOP",
-      "total": 24,
-      "abertos": 24,
-      "fechados": 0,
-      "corretiva": 9,
-      "preventiva": 15,
-      "criticosAbertos": 3
-    },
-    {
-      "nome": "COLOMBO PARK SHOP",
-      "total": 37,
-      "abertos": 24,
-      "fechados": 13,
-      "corretiva": 22,
-      "preventiva": 15,
-      "criticosAbertos": 3
-    },
-    {
-      "nome": "SHOP CENTER LAR",
-      "total": 30,
-      "abertos": 24,
-      "fechados": 6,
-      "corretiva": 14,
-      "preventiva": 16,
-      "criticosAbertos": 1
-    },
-    {
-      "nome": "CARREFOUR PARTENON",
-      "total": 30,
-      "abertos": 24,
-      "fechados": 6,
-      "corretiva": 18,
-      "preventiva": 12,
-      "criticosAbertos": 3
-    },
-    {
-      "nome": "SHOP JARDIM DAS AMERICAS",
-      "total": 35,
-      "abertos": 23,
-      "fechados": 12,
-      "corretiva": 23,
-      "preventiva": 12,
-      "criticosAbertos": 0
-    },
-    {
-      "nome": "PORTO BELO OUTLET",
-      "total": 30,
-      "abertos": 23,
-      "fechados": 7,
-      "corretiva": 13,
-      "preventiva": 17,
-      "criticosAbertos": 1
-    },
-    {
-      "nome": "SHOP PALLADIUM PONTA GROSSA",
-      "total": 26,
-      "abertos": 23,
-      "fechados": 3,
-      "corretiva": 8,
-      "preventiva": 18,
-      "criticosAbertos": 0
-    },
-    {
-      "nome": "SHOP CIDADE CURITIBA",
-      "total": 37,
-      "abertos": 21,
-      "fechados": 16,
-      "corretiva": 24,
-      "preventiva": 13,
-      "criticosAbertos": 1
-    },
-    {
-      "nome": "SHOP TOTAL POA",
-      "total": 30,
-      "abertos": 20,
-      "fechados": 10,
-      "corretiva": 17,
-      "preventiva": 13,
-      "criticosAbertos": 0
-    },
-    {
-      "nome": "ANGELONI AGUA VERDE",
-      "total": 22,
-      "abertos": 19,
-      "fechados": 3,
-      "corretiva": 10,
-      "preventiva": 12,
-      "criticosAbertos": 2
-    },
-    {
-      "nome": "SHOP PRACA RIO GRANDE",
-      "total": 27,
-      "abertos": 18,
-      "fechados": 9,
-      "corretiva": 16,
-      "preventiva": 11,
-      "criticosAbertos": 1
-    },
-    {
-      "nome": "SHOP PALLADIUM CURITIBA",
-      "total": 21,
-      "abertos": 17,
-      "fechados": 4,
-      "corretiva": 7,
-      "preventiva": 14,
-      "criticosAbertos": 0
-    },
-    {
-      "nome": "BOURBON SHOP SAO LEOPOLDO",
-      "total": 41,
-      "abertos": 17,
-      "fechados": 24,
-      "corretiva": 26,
-      "preventiva": 15,
-      "criticosAbertos": 1
-    },
-    {
-      "nome": "FS CURITIBA - AV FLORIANO PEIXOTO 5952",
-      "total": 30,
-      "abertos": 17,
-      "fechados": 13,
-      "corretiva": 16,
-      "preventiva": 14,
-      "criticosAbertos": 0
-    },
-    {
-      "nome": "FS NOVO HAMBURGO - RUA JOAQUIM NABUCO 382",
-      "total": 51,
-      "abertos": 16,
-      "fechados": 35,
-      "corretiva": 29,
-      "preventiva": 22,
-      "criticosAbertos": 4
-    },
-    {
-      "nome": "SHOP LAJEADO",
-      "total": 18,
-      "abertos": 16,
-      "fechados": 2,
-      "corretiva": 8,
-      "preventiva": 10,
-      "criticosAbertos": 3
-    },
-    {
-      "nome": "SHOP SAN PELEGRINO",
-      "total": 16,
-      "abertos": 15,
-      "fechados": 1,
-      "corretiva": 6,
-      "preventiva": 10,
-      "criticosAbertos": 2
-    },
-    {
-      "nome": "SHOP TOTAL PONTA GROSSA",
-      "total": 15,
-      "abertos": 15,
-      "fechados": 0,
-      "corretiva": 0,
-      "preventiva": 15,
-      "criticosAbertos": 0
-    },
-    {
-      "nome": "SHOP PELOTAS",
-      "total": 33,
-      "abertos": 13,
-      "fechados": 20,
-      "corretiva": 22,
-      "preventiva": 11,
-      "criticosAbertos": 4
-    },
-    {
-      "nome": "SHOP CIDADE DOS LAGOS",
-      "total": 29,
-      "abertos": 11,
-      "fechados": 18,
-      "corretiva": 12,
-      "preventiva": 17,
-      "criticosAbertos": 0
-    },
-    {
-      "nome": "FC CATUAÍ CASCAVEL",
-      "total": 13,
-      "abertos": 11,
-      "fechados": 2,
-      "corretiva": 12,
-      "preventiva": 1,
-      "criticosAbertos": 1
-    },
-    {
-      "nome": "BOURBON SHOP NOVO HAMBURGO",
-      "total": 29,
-      "abertos": 10,
-      "fechados": 19,
-      "corretiva": 14,
-      "preventiva": 15,
-      "criticosAbertos": 0
-    },
-    {
-      "nome": "FS FOZ DO IGUACU - AV JORGE SCHIMMELPFENG 50",
-      "total": 24,
-      "abertos": 9,
-      "fechados": 15,
-      "corretiva": 14,
-      "preventiva": 10,
-      "criticosAbertos": 2
-    },
-    {
-      "nome": "FS CURITIBA - RUA DOMINGOS STRAPASSON",
-      "total": 41,
-      "abertos": 8,
-      "fechados": 33,
-      "corretiva": 17,
-      "preventiva": 24,
-      "criticosAbertos": 1
-    },
-    {
-      "nome": "FS CURITIBA - R CARLOS KLEMTZ 1994",
-      "total": 14,
-      "abertos": 7,
-      "fechados": 7,
-      "corretiva": 14,
-      "preventiva": 0,
-      "criticosAbertos": 0
-    },
-    {
-      "nome": "(sem loja)",
-      "total": 19,
-      "abertos": 7,
-      "fechados": 12,
-      "corretiva": 19,
-      "preventiva": 0,
-      "criticosAbertos": 1
-    },
-    {
-      "nome": "FS CURITIBA - R BISPO DOM JOSE 2348",
-      "total": 29,
-      "abertos": 6,
-      "fechados": 23,
-      "corretiva": 18,
-      "preventiva": 11,
-      "criticosAbertos": 1
-    },
-    {
-      "nome": "FS SBC - AV PRESTES MAIA 1001",
-      "total": 9,
-      "abertos": 4,
-      "fechados": 5,
-      "corretiva": 0,
-      "preventiva": 9,
-      "criticosAbertos": 0
-    },
-    {
-      "nome": "FS CURITIBA - R MARTIN AFONSO",
-      "total": 25,
-      "abertos": 4,
-      "fechados": 21,
-      "corretiva": 10,
-      "preventiva": 15,
-      "criticosAbertos": 0
-    }
-  ],
-  "criticosAbertos": [
-    {
-      "numero": "WOT0015221",
-      "loja": "PARK SHOP CANOAS",
-      "descricao": "BK066453 - COIFA LAVADORA; MELTING | COI - COIFA NÃO FUNCIONA",
-      "aberto": "01/08/2026 14:40:40",
-      "tecnico": ""
-    },
-    {
-      "numero": "WOT0015325",
-      "loja": "SHOP PRACA NOVA SANTA MARIA",
-      "descricao": "Area Interna | AIN - COZINHA - REFLUXO",
-      "aberto": "01/08/2026 23:48:58",
-      "tecnico": "Marcel Vinicios Rocha Agradem"
-    },
-    {
-      "numero": "WOT0042727",
-      "loja": "SHOP SÃO JOSE DOS PINHAIS",
-      "descricao": "BK080429 - COIFA WASH PULL HTVK 2800 X 1200 +Q.E | COI - COIFA NÃO FUNCIONA",
-      "aberto": "01/09/2026 15:23:27",
-      "tecnico": "Pedro Henrique Pereira Da Silva"
-    },
-    {
-      "numero": "WOT0042773",
-      "loja": "SHOP IGUATEMI PORTO ALEGRE",
-      "descricao": "Area Interna | AIN - COZINHA - REFLUXO",
-      "aberto": "01/09/2026 17:03:06",
-      "tecnico": "Rafael Wagner Barbosa de Jesus"
-    },
-    {
-      "numero": "WOT0042782",
-      "loja": "SHOP SÃO JOSE DOS PINHAIS",
-      "descricao": "BK080429 - COIFA WASH PULL HTVK 2800 X 1200 +Q.E | COI - COIFA EM CONTIGÊNCIA",
-      "aberto": "01/09/2026 17:20:49",
-      "tecnico": "Carlos Magno da Silva Lira"
-    },
-    {
-      "numero": "WOT0042793",
-      "loja": "BOURBON SHOP WALLIG",
-      "descricao": "FRITADEIRA | FRI - NENHUMA DAS CUBAS ATINGE TEMPERATURA",
-      "aberto": "01/09/2026 17:35:35",
-      "tecnico": "Rafael Wagner Barbosa de Jesus"
-    },
-    {
-      "numero": "WOT0015377",
-      "loja": "CARREFOUR PASSO D'AREIA",
-      "descricao": "BK066428 - CÂMARA DE CONGELADOS | CMG - NÃO ATINGE TEMPERATURA",
-      "aberto": "02/08/2026 11:03:28",
-      "tecnico": "Cristppher Alencar Pacheco Cruz"
-    },
-    {
-      "numero": "WOT0042919",
-      "loja": "CARREFOUR PARTENON",
-      "descricao": "SISTEMA DE INCENDIO LOJA SHOP SÃO JOSE D | SCI - ALARME DISPARADO",
-      "aberto": "02/09/2026 08:29:56",
-      "tecnico": "Rafael Wagner Barbosa de Jesus"
-    },
-    {
-      "numero": "WOT0042994",
-      "loja": "BOURBON SHOP PORTO ALEGRE",
-      "descricao": "Area Interna | AIN - QUADRO ELÉTRICO - FALTA DE DISPOSITIVO DE PROTEÇÃO",
-      "aberto": "02/09/2026 10:12:33",
-      "tecnico": "Emanuel dos Santos Silva"
-    },
-    {
-      "numero": "WOT0043023",
-      "loja": "FS CURITIBA - FRANCISCO FRISHMANN 3151",
-      "descricao": "COIFA | COI - COIFA EM CONTIGÊNCIA",
-      "aberto": "02/09/2026 10:39:20",
-      "tecnico": "Pedro Henrique Pereira Da Silva"
-    },
-    {
-      "numero": "WOT0043050",
-      "loja": "CARREFOUR PARTENON",
-      "descricao": "SISTEMA DE INCENDIO LOJA SHOP SÃO JOSE D | SCI - CO² DISPARADO",
-      "aberto": "02/09/2026 11:04:03",
-      "tecnico": "Rafael Wagner Barbosa de Jesus"
-    },
-    {
-      "numero": "WOT0043077",
-      "loja": "FS CURITIBA - R BISPO DOM JOSE 2348",
-      "descricao": "Area Externa | AEX - REFLUXO",
-      "aberto": "02/09/2026 11:41:40",
-      "tecnico": "Carlos Magno da Silva Lira"
-    },
-    {
-      "numero": "WOT0043267",
-      "loja": "SHOP PALLADIUM FOZ DO IGUACU",
-      "descricao": "BK062849 - CÂMARA DE CONGELADOS | CMG - NÃO ATINGE TEMPERATURA",
-      "aberto": "02/09/2026 17:42:43",
-      "tecnico": "Carlos Magno da Silva Lira"
-    },
-    {
-      "numero": "WOT0043302",
-      "loja": "FS PINHAIS - R DEP JOAO LEOPOLDO JACOMEL",
-      "descricao": "BK230006 - CÂMARA DE CONGELADOS | CMG - NÃO ATINGE TEMPERATURA",
-      "aberto": "02/09/2026 19:10:55",
-      "tecnico": "Marcelo Banak"
-    },
-    {
-      "numero": "WOT0015500",
-      "loja": "SHOP PELOTAS",
-      "descricao": "COIFA | COI - COIFA COM VAZAMENTO",
-      "aberto": "03/08/2026 08:50:01",
-      "tecnico": "Thiago da Silva Gonzalez"
-    },
-    {
-      "numero": "WOT0043762",
-      "loja": "ATLANTICO SHOP",
-      "descricao": "AR CONDICIONADO | ARC - TEMPERATURA AMBIENTE ACIMA DE 29ºC",
-      "aberto": "03/09/2026 15:46:37",
-      "tecnico": "Carlos Magno da Silva Lira"
-    },
-    {
-      "numero": "WOT0043769",
-      "loja": "PARTAGE SHOP RIO GRANDE",
-      "descricao": "BK037963 - CAMARA DE RESFRIADOS; SÃO RAFAEL | CMR - NÃO ATINGE TEMPERATURA",
-      "aberto": "03/09/2026 16:04:33",
-      "tecnico": "Thiago da Silva Gonzalez"
-    },
-    {
-      "numero": "WOT0015874",
-      "loja": "BOURBON SHOP WALLIG",
-      "descricao": "MAQUINA SORVETE, CARPIGIANI, CN825716181 | MDS - NÃO LIGA",
-      "aberto": "04/08/2026 09:16:07",
-      "tecnico": ""
-    },
-    {
-      "numero": "WOT0015957",
-      "loja": "FS PORTO ALEGRE - AV IPIRANGA 1600",
-      "descricao": "MAQUINA SORVETE, CARPIGIANI, CN825716181 | MDS - RESERVATÓRIO DOS DOIS LADOS NÃO ATINGE TEMPERATURA",
-      "aberto": "04/08/2026 11:44:56",
-      "tecnico": ""
-    },
-    {
-      "numero": "WOT0016037",
-      "loja": "SHOP BELLA CITTA",
-      "descricao": "Area Interna | AIN - QUADRO ELÉTRICO - FALTA DE ACRÍLICO DE PROTEÇÃO",
-      "aberto": "04/08/2026 14:09:53",
-      "tecnico": "Ciro Antonio do Nascimento Mello"
-    },
-    {
-      "numero": "WOT0044009",
-      "loja": "ILR PORTO ALEGRE - R ANDRADAS 1664",
-      "descricao": "BK049862 - BROILER | BRO - NÃO ATINGE TEMPERATURA",
-      "aberto": "04/09/2026 09:41:24",
-      "tecnico": "Rafael Wagner Barbosa de Jesus"
-    },
-    {
-      "numero": "WOT0044049",
-      "loja": "FS CURITIBA - LINHA VERDE",
-      "descricao": "BK086014 - FRITADEIRA | FRI - SOMENTE 1 CUBA FUNCIONANDO",
-      "aberto": "04/09/2026 10:57:14",
-      "tecnico": "Wilson Charles Philistin"
-    },
-    {
-      "numero": "WOT0044221",
-      "loja": "CARREFOUR PARTENON",
-      "descricao": "Area Interna | AIN - COZINHA - REFLUXO",
-      "aberto": "04/09/2026 14:56:18",
-      "tecnico": "Rafael Wagner Barbosa de Jesus"
-    },
-    {
-      "numero": "WOT0044223",
-      "loja": "(sem loja)",
-      "descricao": "BROILER HORIZONTAL AI GLP 75000BTU/H | BRO - SUPERAQUECENDO",
-      "aberto": "04/09/2026 14:57:21",
-      "tecnico": "Carlos Magno da Silva Lira"
-    },
-    {
-      "numero": "WOT0016753",
-      "loja": "BOURBON SHOP WALLIG",
-      "descricao": "BK078312 - AR CONDICIONADO | ARC - TEMPERATURA AMBIENTE ACIMA DE 29ºC",
-      "aberto": "05/08/2026 16:06:58",
-      "tecnico": ""
-    },
-    {
-      "numero": "WOT0044803",
-      "loja": "SHOP SÃO JOSE DOS PINHAIS",
-      "descricao": "BK066867 - CÂMARA DE CONGELADOS | CMG - NÃO ATINGE TEMPERATURA",
-      "aberto": "05/09/2026 08:59:26",
-      "tecnico": "Carlos Magno da Silva Lira"
-    },
-    {
-      "numero": "WOT0045010",
-      "loja": "BOURBON SHOP WALLIG",
-      "descricao": "FRITADEIRA | FRI - SOMENTE 1 CUBA FUNCIONANDO",
-      "aberto": "05/09/2026 14:48:14",
-      "tecnico": "Rafael Wagner Barbosa de Jesus"
-    },
-    {
-      "numero": "WOT0017297",
-      "loja": "ILR PORTO ALEGRE - R ANDRADAS 1664",
-      "descricao": "AR CONDICIONADO | ARC - TEMPERATURA AMBIENTE ACIMA DE 29ºC",
-      "aberto": "06/08/2026 15:41:00",
-      "tecnico": ""
-    },
-    {
-      "numero": "WOT0017440",
-      "loja": "SHOP ROYAL PLAZA SANTA MARIA",
-      "descricao": "BK036567 - MESA PRINCIPAL; TOPEMA | MPR - PRINCÍPIO DE INCÊNDIO",
-      "aberto": "06/08/2026 19:49:37",
-      "tecnico": "Marcel Vinicios Rocha Agradem"
-    },
-    {
-      "numero": "WOT0045213",
-      "loja": "FS PORTO ALEGRE - AV IPIRANGA 1600",
-      "descricao": "BK035104 - COIFA | COI - COIFA COM VAZAMENTO",
-      "aberto": "06/09/2026 09:56:00",
-      "tecnico": "Thiago Dos Santos Coelho"
+  "totalLojas": 71,
+  "equipamentos": [
+    {
+      "chave": "sorvete",
+      "nome": "Máquina de Sorvete",
+      "pctEmFalha": 74.6,
+      "pdvsEmFalha": 53,
+      "chamados": 114,
+      "alta": 61,
+      "sos": 9,
+      "tempoMedioDias": 19,
+      "chamadosSOS": [
+        {
+          "numero": "WOT0014583",
+          "loja": "COLOMBO PARK SHOP",
+          "dias": 41,
+          "tecnico": "Renato Carlos Santa Rosa"
+        },
+        {
+          "numero": "WOT0015874",
+          "loja": "BOURBON SHOP WALLIG",
+          "dias": 36,
+          "tecnico": ""
+        },
+        {
+          "numero": "WOT0015957",
+          "loja": "FS PORTO ALEGRE - AV IPIRANGA 1600",
+          "dias": 36,
+          "tecnico": ""
+        },
+        {
+          "numero": "WOT0018579",
+          "loja": "SHOP PELOTAS",
+          "dias": 32,
+          "tecnico": "Thiago da Silva Gonzalez"
+        },
+        {
+          "numero": "WOT0020457",
+          "loja": "SHOP GRAVATAI",
+          "dias": 29,
+          "tecnico": "Rafael Wagner Barbosa de Jesus"
+        }
+      ]
+    },
+    {
+      "chave": "fritadeira",
+      "nome": "Fritadeira",
+      "pctEmFalha": 53.5,
+      "pdvsEmFalha": 38,
+      "chamados": 53,
+      "alta": 25,
+      "sos": 13,
+      "tempoMedioDias": 21,
+      "chamadosSOS": [
+        {
+          "numero": "WOT0019985",
+          "loja": "FC CATUAÍ CASCAVEL",
+          "dias": 29,
+          "tecnico": "Carlos Magno da Silva Lira"
+        },
+        {
+          "numero": "WOT0020952",
+          "loja": "SHOP PALLADIUM FOZ DO IGUACU",
+          "dias": 28,
+          "tecnico": "Gustavo de Godoy Matheus"
+        },
+        {
+          "numero": "WOT0021782",
+          "loja": "SHOP PRACA NOVA SANTA MARIA",
+          "dias": 28,
+          "tecnico": "Rafael Wagner Barbosa de Jesus"
+        },
+        {
+          "numero": "WOT0026543",
+          "loja": "SHOP ROYAL PLAZA SANTA MARIA",
+          "dias": 27,
+          "tecnico": "Rafael Wagner Barbosa de Jesus"
+        },
+        {
+          "numero": "WOT0032424",
+          "loja": "BOURBON SHOP WALLIG",
+          "dias": 23,
+          "tecnico": "Rafael Wagner Barbosa de Jesus"
+        }
+      ]
+    },
+    {
+      "chave": "microondas",
+      "nome": "Micro-ondas",
+      "pctEmFalha": 40.8,
+      "pdvsEmFalha": 29,
+      "chamados": 42,
+      "alta": 35,
+      "sos": 1,
+      "tempoMedioDias": 19,
+      "chamadosSOS": [
+        {
+          "numero": "WOT0041880",
+          "loja": "SHOP PALLADIUM FOZ DO IGUACU",
+          "dias": 10,
+          "tecnico": "Carlos Magno da Silva Lira"
+        }
+      ]
+    },
+    {
+      "chave": "phu",
+      "nome": "PHU",
+      "pctEmFalha": 38,
+      "pdvsEmFalha": 27,
+      "chamados": 41,
+      "alta": 30,
+      "sos": 3,
+      "tempoMedioDias": 23,
+      "chamadosSOS": [
+        {
+          "numero": "WOT0038311",
+          "loja": "FS PONTA GROSSA - RUA BALDUINO TAQUES 1530",
+          "dias": 16,
+          "tecnico": "Carlos Magno da Silva Lira"
+        },
+        {
+          "numero": "WOT0041471",
+          "loja": "FS PORTO ALEGRE - AV IPIRANGA 1600",
+          "dias": 11,
+          "tecnico": ""
+        },
+        {
+          "numero": "WOT0045301",
+          "loja": "SHOP IGUATEMI PORTO ALEGRE",
+          "dias": 3,
+          "tecnico": "Rafael Wagner Barbosa de Jesus"
+        }
+      ]
+    },
+    {
+      "chave": "broiler",
+      "nome": "Broiler",
+      "pctEmFalha": 57.7,
+      "pdvsEmFalha": 41,
+      "chamados": 65,
+      "alta": 16,
+      "sos": 16,
+      "tempoMedioDias": 20,
+      "chamadosSOS": [
+        {
+          "numero": "WOT0018633",
+          "loja": "OUTLET NOVO HAMBURGO",
+          "dias": 32,
+          "tecnico": "Cristppher Alencar Pacheco Cruz"
+        },
+        {
+          "numero": "WOT0031693",
+          "loja": "SHOP PARK EUROPEU",
+          "dias": 25,
+          "tecnico": "Solano Silva do Amaral"
+        },
+        {
+          "numero": "WOT0031977",
+          "loja": "SHOP SAN PELEGRINO",
+          "dias": 25,
+          "tecnico": "Marcel Vinicios Rocha Agradem"
+        },
+        {
+          "numero": "WOT0032433",
+          "loja": "FS CURITIBA - FRANCISCO FRISHMANN 3151",
+          "dias": 23,
+          "tecnico": "Wilson Charles Philistin"
+        },
+        {
+          "numero": "WOT0034167",
+          "loja": "SHOP GRAVATAI",
+          "dias": 23,
+          "tecnico": "Emanuel dos Santos Silva"
+        }
+      ]
+    },
+    {
+      "chave": "tostadeira",
+      "nome": "Tostadeira",
+      "pctEmFalha": 43.7,
+      "pdvsEmFalha": 31,
+      "chamados": 40,
+      "alta": 7,
+      "sos": 2,
+      "tempoMedioDias": 21,
+      "chamadosSOS": [
+        {
+          "numero": "WOT0020478",
+          "loja": "FS CACHOEIRINHA - AV FLORES DA CUNHA",
+          "dias": 29,
+          "tecnico": "Rafael Wagner Barbosa de Jesus"
+        },
+        {
+          "numero": "WOT0039228",
+          "loja": "SHOP PALLADIUM FOZ DO IGUACU",
+          "dias": 14,
+          "tecnico": "Carlos Magno da Silva Lira"
+        }
+      ]
     }
   ]
 }
